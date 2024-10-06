@@ -1,3 +1,9 @@
+title: My Jekyll Site
+description: >-
+  A simple website deployed with GitHub Pages.
+baseurl: "/snow-theme" # subpath of your project
+url: "https://cyberthirty.github.io" # base URL
+
 exclude:
   - vendor
   - node_modules
